@@ -38,7 +38,7 @@ roslaunch stl_control set_param.py
 ```
 rosrun stl_control stl_control_car.py
 ```
-&ensp;&ensp;**Remark:**  Activate the control node. When the program begins, it will prompt you to confirm whether there are obstacles in the scene. You can press 'Y' or 'y' to indicate their presence, 'N' or 'n' to indicate their absence, and 'Q' or 'q' to exit.
+&ensp;&ensp;**Remark:**  Activate the control node. When the program begins, it will prompt you to confirm whether there are obstacles in the scene. You can press 'Y' or 'y' to indicate their presence, 'N' or 'n' to indicate their absence, and 'Q' or 'q' to exit.After confirming whether obstacles exist, press any key to start the control.
 
 ## Data
 
