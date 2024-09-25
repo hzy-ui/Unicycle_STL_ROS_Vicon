@@ -1,12 +1,12 @@
 # UNICYCLE_STL_ROS
 
-&ensp;&ensp;This experiment demonstrates the controller design for nonholonomic vehicles in finishing Signal Temporal Logic (STL) tasks. It is conducted in a ROS (Noetic) environment on Linux (Ubuntu 18.04) and uses Vicon for motion tracking and positioning.
+&ensp;&ensp;This experiment demonstrates the controller design for unicycles in finishing Signal Temporal Logic (STL) tasks. It is conducted in a ROS (Noetic) environment on Linux (Ubuntu 18.04) and uses Vicon for motion tracking and positioning.
 
 ## Related Configuration
 
 1.Nonholonomic Car Configuration
 
-&ensp;&ensp;The experiment uses a differential drive robot with dimensions of 266 × 230 × 206 mm. The Raspberry Pi 4B acts as the ROS master, receiving commands and sending them to the STM32F407VET6 microcontroller through a serial connection. This microcontroller calculates and issues control commands for the robot's chassis. The robot is powered by MG513 metal gear reduction motors, allowing it to navigate around obstacles and complete Signal Temporal Logic (STL) tasks effectively.
+&ensp;&ensp;The experiment uses a unicycle robot with dimensions of 266 × 230 × 206 mm. The Raspberry Pi 4B acts as the ROS master, receiving commands and sending them to the STM32F407VET6 microcontroller through a serial connection. This microcontroller calculates and issues control commands for the robot's chassis. The robot is powered by MG513 metal gear reduction motors, allowing it to navigate around obstacles and complete Signal Temporal Logic (STL) tasks effectively.
 
 <div align=center>  <img src=".\image\nonholonomic car.png" width=50%>
 
