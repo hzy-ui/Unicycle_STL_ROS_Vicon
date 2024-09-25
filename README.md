@@ -14,9 +14,9 @@
   
 2.Environment Configuration
 
-&ensp;&ensp;The VICON coordinates: ENU; Car local coordinates: ENU.
+&ensp;&ensp;The VICON coordinates: ENU; Unicycle local coordinates: ENU.
 
-&ensp;&ensp;The experimental area has dimensions of 8 × 11 meters. The nonholonomic mobile robot designates the starting point as the origin and acquires global positioning data through wireless telemetry from the Vicon system.
+&ensp;&ensp;The experimental area has dimensions of 8 × 11 meters. The unicycle robot designates the starting point as the origin and acquires global positioning data through wireless telemetry from the Vicon system.
 
 &ensp;&ensp;First, activate the chassis control node.
 
