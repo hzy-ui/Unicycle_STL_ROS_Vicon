@@ -67,7 +67,7 @@ Please click the [link](https://github.com/hzy-ui/Unicycle_STL_ROS/blob/main/vid
   Your browser does not support the video tag.
 </video>-->
 
-Please click the [link]((https://github.com/hzy-ui/Unicycle_STL_ROS/blob/main/videos/Obstacle%20Scence.mp4) to get access to the video with higher resolution.
+Please click the [link](https://github.com/hzy-ui/Unicycle_STL_ROS/blob/main/videos/Obstacle%20Scence.mp4) to get access to the video with higher resolution.
 
 
 
