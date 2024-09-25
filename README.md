@@ -1,4 +1,4 @@
-# STL_CONTROL_EXPERIMENT
+# UNICYCLE_STL_ROS
 
 &ensp;&ensp;This experiment demonstrates the controller design for nonholonomic vehicles in finishing Signal Temporal Logic (STL) tasks. It is conducted in a ROS (Noetic) environment on Linux (Ubuntu 18.04) and uses Vicon for motion tracking and positioning.
 
