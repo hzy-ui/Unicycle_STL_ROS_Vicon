@@ -29,8 +29,9 @@ The following images depict the environmental setup for the obstacle scene. In c
 
 1.Formulating Signal Temporal Logic (STL) Tasks
 ```
-roslaunch stl_control mycar_gazebo.launch
+roslaunch stl_control set_param.py
 ```
+
 2.Run the Control Script:
 ```
 rosrun stl_control stl_control_car.py
@@ -40,11 +41,11 @@ rosrun stl_control stl_control_car.py
 
 1.Experiment with Obstacle Free Scenarios
 
-[2024-09-22-15-36-25.bag](https://) is the correct data.
+[2024-09-22-15-36-25.bag](https://github.com/hzy-ui/Unicycle_STL_ROS/blob/main/data/2024-09-22-15-36-25.bag) is the correct data.
 
 2.Experiment with Obstacle Scenarios
 
-[2024-06-27-13-27-33.bag](https://) is the correct data.
+[2024-06-27-13-27-33.bag](https://github.com/hzy-ui/Unicycle_STL_ROS/blob/main/data/2024-06-27-13-27-33.bag) is the correct data.
 
 ## Videos
 1.Experiment with Obstacle Free Scenarios
