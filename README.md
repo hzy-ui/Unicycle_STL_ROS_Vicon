@@ -43,13 +43,13 @@ rosrun stl_control stl_control_car.py
 
 ## Data
 
-1.Experiment with Obstacle Free Scenarios
+1.Experiment data with Obstacle Free Scenarios
 
-[2024-09-22-15-36-25.bag](https://github.com/hzy-ui/Unicycle_STL_ROS/blob/main/data/2024-09-22-15-36-25.bag) is the correct data.
+[2024-09-22-15-36-25.bag](https://github.com/hzy-ui/Unicycle_STL_ROS/blob/main/data/2024-09-22-15-36-25.bag) 
 
-2.Experiment with Obstacle Scenarios
+2.Experiment data with Obstacle Scenarios
 
-[2024-06-27-13-27-33.bag](https://github.com/hzy-ui/Unicycle_STL_ROS/blob/main/data/2024-06-27-13-27-33.bag) is the correct data.
+[2024-06-27-13-27-33.bag](https://github.com/hzy-ui/Unicycle_STL_ROS/blob/main/data/2024-06-27-13-27-33.bag) 
 
 ## Videos
 1.Experiment with Obstacle Free Scenarios
