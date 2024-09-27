@@ -51,8 +51,8 @@ rosrun stl_control stl_control_car.py
 
 [2024-06-27-13-27-33.bag](https://github.com/hzy-ui/Unicycle_STL_ROS/blob/main/data/2024-06-27-13-27-33.bag) 
 
-## Videos
-Please click [here](https://github.com/hzy-ui/Unicycle_STL_ROS/blob/main/videos/obstacles%20free%20scence.mp4) to get access to the experiment video. 
+## Video
+Please click [here](https://vimeo.com/manage/videos/1013395949) to get access to the experiment video. 
 
 
 
