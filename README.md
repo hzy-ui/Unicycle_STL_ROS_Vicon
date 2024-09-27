@@ -30,7 +30,7 @@
 
 1.Formulating Signal Temporal Logic (STL) Tasks
 ```
-roslaunch stl_control set_param.py
+rosrun stl_control set_param.py
 ```
 
 &ensp;&ensp;**Remark:**  Load the relevant parameters, including the specifications of the signal temporal logic tasks, as well as information regarding the positions and velocities of obstacles.
@@ -52,7 +52,8 @@ rosrun stl_control stl_control_car.py
 [2024-06-27-13-27-33.bag](https://github.com/hzy-ui/Unicycle_STL_ROS/blob/main/data/2024-06-27-13-27-33.bag) 
 
 ## Videos
-1.Experiment with Obstacle Free Scenarios
+Please click [here](https://github.com/hzy-ui/Unicycle_STL_ROS/blob/main/videos/obstacles%20free%20scence.mp4) to get access to the experiment video. 
+<!-- 1.Experiment with Obstacle Free Scenarios
 
 <!-- [Experiment Video](https://).
 <video width="320" height="240" controls>
@@ -71,7 +72,7 @@ rosrun stl_control stl_control_car.py
   Your browser does not support the video tag.
 </video>-->
 
-&ensp;&ensp;Please click the [link](https://github.com/hzy-ui/Unicycle_STL_ROS/blob/main/videos/Obstacle%20Scence.mp4) to get access to the video with higher resolution.
+&ensp;&ensp;Please click the [link](https://github.com/hzy-ui/Unicycle_STL_ROS/blob/main/videos/Obstacle%20Scence.mp4) to get access to the video with higher resolution. -->
 
 
 
